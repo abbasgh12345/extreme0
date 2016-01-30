@@ -209,7 +209,6 @@ function create_config( )
     "ingroup",
     "inpm",
     "banhammer",
-    ".",
     "Feedback",
     "plugins",
     "lock_join",
@@ -247,10 +246,10 @@ function create_config( )
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by: @unkownhacker
    〰〰〰〰〰〰〰〰
-   ߔࠀ   our admins are : 
-   ߔࠀ   @rm13790115   〰〰〰〰〰〰〰〰
+   ߔࠀ   our sudo are : 
+   ߔࠀ   @rmunkownhacker
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
    !feedback (your ideas and messages)
@@ -455,7 +454,7 @@ Says every thing he knows about a group
 Changes or Makes new group link
 لینک گروه رو عوض میکنه 
 
-!getlink
+!link
 gets The Group link
 لینک گروه را در گروه نمایش میده
 
@@ -535,7 +534,7 @@ To tags the every one and sends your message at bottom
 More plugins  soon ...
 ⚠️ We are Creeds ⚠️
 
-our channel : @creedantispam_channel
+our channel : @extremerobos
 کانال ما
 
 You Can user both "!" & "/" for them
