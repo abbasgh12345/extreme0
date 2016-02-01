@@ -209,7 +209,7 @@ function create_config( )
     "ingroup",
     "inpm",
     "banhammer",
-    "Feedback",
+    "feed",
     "plugins",
     "lock_join",
     "antilink",
