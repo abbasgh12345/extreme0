@@ -219,6 +219,9 @@ function create_config( )
     "cpu",
     "time",
     "calc",
+    "id",
+    "src",
+    "well",
     "bin",
     "tagall",
     "text",
@@ -532,6 +535,12 @@ To tags the every one and sends your message at bottom
 تگ کردن همه ی اعضای گروه و نوشتن پیام شما زیرش
 
 〰〰〰〰〰〰〰〰〰
+6.امکانات دیگر
+!src ***
+!calc ***
+!text ***
+!echo ***
+~~~~~~~~~~~~~~~~~~
 More plugins  soon ...
 ⚠️ We are Creeds ⚠️
 
