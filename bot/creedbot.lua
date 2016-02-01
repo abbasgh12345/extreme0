@@ -540,6 +540,7 @@ To tags the every one and sends your message at bottom
 !calc ***
 !text ***
 !echo ***
+!ids chat
 ~~~~~~~~~~~~~~~~~~
 More plugins  soon ...
 ⚠️ We are Creeds ⚠️
