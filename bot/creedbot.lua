@@ -217,6 +217,7 @@ function create_config( )
     "gps",
     "auto_leave",
     "cpu",
+    "time",
     "calc",
     "bin",
     "tagall",
@@ -249,7 +250,7 @@ function create_config( )
     ‼️ this bot is made by: @unkownhacker
    〰〰〰〰〰〰〰〰
    ߔࠀ   our sudo are : 
-   ߔࠀ   @rmunkownhacker
+   ߔࠀ   @unkownhacker
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
    !feedback (your ideas and messages)
