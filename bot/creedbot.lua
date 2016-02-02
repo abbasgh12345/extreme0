@@ -216,6 +216,7 @@ function create_config( )
     "lock_join",
     "antilink",
     "antitag",
+    "leave",
     "gps",
     "auto_leave",
     "cpu",
@@ -241,6 +242,7 @@ function create_config( )
     "broadcast",
     "download_media",
     "invite",
+    "extreme",
     "all",
     "leave_ban"
     },
