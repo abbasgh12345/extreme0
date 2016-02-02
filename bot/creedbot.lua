@@ -211,6 +211,8 @@ function create_config( )
     "banhammer",
     "feed",
     "plugins",
+    "quran",
+    "file",
     "lock_join",
     "antilink",
     "antitag",
@@ -256,7 +258,7 @@ function create_config( )
    ߔࠀ   @unkownhacker
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
-   !feedback (your ideas and messages)
+   !feedback (your ideas and messages) or @unkownabbasbot
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -535,7 +537,12 @@ To tags the every one and sends your message at bottom
 تگ کردن همه ی اعضای گروه و نوشتن پیام شما زیرش
 
 〰〰〰〰〰〰〰〰〰
-6.امکانات دیگر
+6.quran
+!quran
+!read {num}
+!sura {num}
+~~ ~~ ~~ ~~ ~~ ~~ ~~
+7.other
 !src ***
 !calc ***
 !text ***
